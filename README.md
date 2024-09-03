@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008c8c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo.;Hello,+welcome.;Hola,+bienvenido.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edcastanho&theme=algolia&show_icons=true" alt="github stats saiu fora do ar" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcastanho&layout=compact&langs_count=16&theme=algolia"/>
-</div>
-
   <div align="center">
     <h1>Social Media</h1>
   
