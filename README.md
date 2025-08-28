@@ -12,7 +12,7 @@
   
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{edcastanho}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{duduec}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008c8c&height=120&section=footer"/>
