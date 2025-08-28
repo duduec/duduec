@@ -1,16 +1,14 @@
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008c8c&height=150&section=header&text=Seja%20Bem-Vindo!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<!-- Banner Top -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:405DE6,50:833AB4,75:E1306C,100:FD1D1D&height=250&section=header&text=Hello,%20Welcome!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Mensagem de boas-vindas -->
-<h2 align="center">👋 Olá, eu sou o Eduardo! </h2>
+<!-- Welcome Message -->
+<h2 align="center">👋 Hi, I'm Eduardo</h2>
 <p align="center">
-  Designer em crescimento | Criativo digital | Explorando novas ideias
+  Growing Designer | Digital Creative | Always Exploring New Ideas
 </p>
 
----
-
-<!-- Redes sociais -->
-<h3 align="center">🌎 Minhas Redes</h3>
+<!-- Social Media -->
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-castanho-de-siqueira-0996a426a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -28,8 +26,8 @@
 
 ---
 
-<!-- Stats com animação -->
-<h3 align="center">📊 Estatísticas</h3>
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duduec&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduec&theme=tokyonight" height="150"/>
@@ -39,19 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduec&layout=compact&theme=tokyonight" height="120"/>
 </p>
 
----
+<!-- Projects -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-10-brightgreen?style=for-the-badge&logo=github"/>
+</p>
 
-<!-- Contadores -->
-<div align="center">
-  <br>
-  <p><b>👀 Visitantes</b></p>  
-  <img src="https://profile-counter.glitch.me/{duduec}/count.svg" />
-  
-  <p><b>🚀 Projetos Públicos</b></p>
-  <img src="https://img.shields.io/badge/Projetos-10-brightgreen?style=for-the-badge&logo=github"/>
-</div>
-
----
-
-<!-- Animação legal no rodapé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008c8c&height=120&section=footer"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:405DE6,50:833AB4,75:E1306C,100:FD1D1D&height=180&section=footer"/>
