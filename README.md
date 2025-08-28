@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/_duduec/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://gitlab.com/@duduec" target="_blank">
+  <a href="https://gitlab.com/duduec" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
   <a href="mailto:eduardocastanhosiqueira@gmail.com" target="_blank">
