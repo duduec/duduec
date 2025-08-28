@@ -4,11 +4,11 @@
 <!-- Welcome Message -->
 <h2 align="center">👋 Hi, I'm Eduardo</h2>
 <p align="center">
-  Growing Designer | Digital Creative | Always Exploring New Ideas
+  Designer | Programmer | Always Exploring New Ideas
 </p>
 
 <!-- Social Media -->
-<h3 align="center">🌐 Connect with Me</h3>
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-castanho-de-siqueira-0996a426a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -24,10 +24,8 @@
   </a>
 </p>
 
----
-
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Insights</h3>
+<h2 align="center">📊 GitHub Insights</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duduec&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duduec&theme=tokyonight" height="150"/>
