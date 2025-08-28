@@ -13,13 +13,13 @@
   <a href="https://www.linkedin.com/in/eduardo-castanho-de-siqueira-0996a426a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/seuuser/" target="_blank">
+  <a href="https://www.instagram.com/_duduec/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://gitlab.com/seuuser" target="_blank">
+  <a href="https://gitlab.com/@duduec" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:eduardocastanhosiqueira@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
